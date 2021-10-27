@@ -1,1 +1,1 @@
-Any text value
+Any text valuenpm run validate-exercise-02
